@@ -18,3 +18,8 @@ It also classifies the result into different health categories like Underweight,
    ```bash
    python bmi-calculator.py
 
+## Example Output
+Enter a weight in 'kilogram' unit :- 70
+Enter a height in 'meter' unit :- 1.75
+Your BMI value is :- 22.86
+You are Normal weight.
